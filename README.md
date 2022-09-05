@@ -1,1 +1,1 @@
-# Dnzzk2-graduation-project
+# Dnzzk2 毕业设计仓库
